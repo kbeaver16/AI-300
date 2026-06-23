@@ -165,14 +165,14 @@ DO IF TIME REMAINS
 ---
 
 ## TASKS
-- [x] Deploy Azure ML workspace ✅ 2026-06-05
-- [x] Configure RBAC ✅ 2026-06-05
-- [x] Create GitHub workflow ✅ 2026-06-05
-- [x] Restrict network (private endpoint) ✅ 2026-06-05
+- [ ] Deploy Azure ML workspace
+- [ ] Configure RBAC
+- [ ] Create GitHub workflow
+- [ ] Restrict network (private endpoint)
 
 ## KEY CONCEPTS
 - Identity + networking
 - Infrastructure as code
 
 ## CHECKPOINT
-- [x] Can explain MLOps infrastructure end-to-end ✅ 2026-06-05
+- [ ] Can explain MLOps infrastructure end-to-end

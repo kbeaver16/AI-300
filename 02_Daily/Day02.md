@@ -5,9 +5,9 @@ Trigger Azure Machine Learning jobs with GitHub Actions
 - https://learn.microsoft.com/en-us/training/modules/trigger-azure-machine-learn-jobs-github-actions/ 
 
 ## TASKS
-- [x] Complete module 🛫 2026-06-01 ✅ 2026-06-01
-- [x] Learn Azure ML CLI v2 usage 🛫 2026-06-01 ✅ 2026-06-01
-- [x] Understand job automation flows 🛫 2026-06-01 ✅ 2026-06-01
+- [ ] Complete module
+- [ ] Learn Azure ML CLI v2 usage
+- [ ] Understand job automation flows
 
 ## KEY CONCEPTS
 - CI-triggered ML jobs

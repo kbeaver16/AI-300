@@ -5,9 +5,9 @@ Deploy a model with GitHub Actions
 - https://learn.microsoft.com/en-us/training/modules/deploy-model-github-actions/
 
 ## TASKS
-- [x] Complete module ✅ 2026-06-08
-- [x] Learn deployment workflows ✅ 2026-06-08
-- [x] Study blue/green deployment ✅ 2026-06-08
+- [ ] Complete module 
+- [ ] Learn deployment workflows 
+- [ ] Study blue/green deployment 
 
 ## KEY CONCEPTS
 - Endpoint deployment

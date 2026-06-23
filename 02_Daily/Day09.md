@@ -1,16 +1,16 @@
 # DAY 09 — HANDS-ON: TRAINING PIPELINES
 
 ## TASKS
-- [x] Run AutoML experiment ✅ 2026-06-08
-- [x] Compare results ✅ 2026-06-08
-- [x] Build pipeline: ✅ 2026-06-08
-  - [x] Data prep ✅ 2026-06-08
-  - [x] Train ✅ 2026-06-08
-  - [x] Evaluate ✅ 2026-06-08
-- [x] Schedule pipeline ✅ 2026-06-08
+- [ ] Run AutoML experiment 
+- [ ] Compare results
+- [ ] Build pipeline:
+  - [ ] Data prep
+  - [ ] Train
+  - [ ] Evaluate
+- [ ] Schedule pipeline
 
 ## CHECKPOINT
-- [x] Can build training workflow end-to-end ✅ 2026-06-08
+- [ ] Can build training workflow end-to-end 
 
 ## NOTES
 # Detailed Notes: Run pipelines in Azure Machine Learning - Training | Microsoft Learn

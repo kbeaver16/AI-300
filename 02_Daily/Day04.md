@@ -4,9 +4,9 @@ Work with environments in GitHub Actions
 ## MODULE LINK
 - https://learn.microsoft.com/en-us/training/modules/work-environments-github-actions/
 ## TASKS
-- [x] Complete module ✅ 2026-06-05
-- [x] Learn dev/test/prod environments ✅ 2026-06-05
-- [x] Understand deployment promotion ✅ 2026-06-05
+- [ ] Complete module
+- [ ] Learn dev/test/prod environments
+- [ ] Understand deployment promotion
 
 ## KEY CONCEPTS
 - Environment segmentation

@@ -5,9 +5,9 @@ Run pipelines in Azure Machine Learning
 - https://learn.microsoft.com/en-us/training/modules/run-pipelines-azure-machine-learning/
 
 ## TASKS
-- [x] Complete module ✅ 2026-06-05
-- [x] Learn pipeline jobs ✅ 2026-06-05
-- [x] Study scheduling ✅ 2026-06-05
+- [ ] Complete module
+- [ ] Learn pipeline jobs 
+- [ ] Study scheduling
 
 ## KEY CONCEPTS
 - Pipeline components

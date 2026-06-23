@@ -5,9 +5,9 @@ Trigger GitHub Actions with feature-based development
 - https://learn.microsoft.com/en-us/training/modules/work-environments-github-actions/
 
 ## TASKS
-- [x] Complete module 📅 2026-06-02 ✅ 2026-06-02
-- [x] Understand trunk-based dev 🛫 2026-06-02 ✅ 2026-06-02
-- [x] Learn CI trigger patterns 🛫 2026-06-02 ✅ 2026-06-02
+- [ ] Complete module
+- [ ] Understand trunk-based dev
+- [ ] Learn CI trigger patterns
 
 ## KEY CONCEPTS
 - Branching strategies

@@ -8,42 +8,42 @@
 # WEEK 1 — FOUNDATIONS AND ARCHITECTURE
 
 ## DAY 01 — EXAM ORIENTATION
-- [x] Read study guide overview 🛫 2026-06-01 ✅ 2026-06-02
-- [x] Identify exam domains: ✅ 2026-06-02
+- [ ] Read study guide overview 
+- [ ] Identify exam domains: 
   - MLOps
   - GenAIOps
   - Monitoring / Optimization
-- [x] Create study notebook ✅ 2026-06-02
+- [ ] Create study notebook 
 
 ---
 
 ## DAY 02 — INTRO TO AI OPS
-- [x] Learn MLOps fundamentals ✅ 2026-06-02
+- [ ] Learn MLOps fundamentals 
   - https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment
-- [x] Learn DevOps vs MLOps comparison ✅ 2026-06-02
-- [x] Document differences ✅ 2026-06-02
+- [ ] Learn DevOps vs MLOps comparison 
+- [ ] Document differences 
 
 ---
 
 ## DAY 03 — AZURE AI SERVICES
-- [ ] Azure AI overview  
+- [ ] Azure AI overview 
   - https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services
-- [ ] Azure OpenAI overview  
+- [ ] Azure OpenAI overview 
   - https://learn.microsoft.com/en-us/azure/ai-services/openai/overview
-- [ ] Create service mapping diagram
+- [ ] Create service mapping diagram 
 
 ---
 
 ## DAY 04 — MODEL LIFECYCLE
-- [ ] ML lifecycle overview  
+- [ ] ML lifecycle overview 
   - https://learn.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines
-- [ ] Map lifecycle to Azure services
+- [ ] Map lifecycle to Azure services 
 
 ---
 
 ## DAY 05 — ARCHITECTURE DESIGN
-- [ ] Draw end-to-end ML system
-- [ ] Identify:
+- [ ] Draw end-to-end ML system 
+- [ ] Identify: 
   - Inputs / outputs
   - Compute / storage
   - Monitoring points
@@ -51,9 +51,9 @@
 ---
 
 ## DAY 06 — HANDS-ON (LIGHT)
-- [ ] Create Azure ML workspace  
+- [ ] Create Azure ML workspace 
   - https://learn.microsoft.com/en-us/azure/machine-learning/quickstart-create-resources
-- [ ] Explore UI:
+- [ ] Explore UI: 
   - Models
   - Compute
   - Endpoints
@@ -61,58 +61,58 @@
 ---
 
 ## DAY 07 — REVIEW
-- [ ] Write summary:
-  - "How AI systems run in Azure"
+- [ ] Write summary: 
+  - "How AI systems run in Azure"Study/AI-300/01_StudyPlan/StudyPlan.md
 
 ---
 
 # WEEK 2 — MLOPS
 
 ## DAY 08 — PIPELINES
-- [ ] ML pipelines  
+- [ ] ML pipelines 
   - https://learn.microsoft.com/en-us/azure/machine-learning/how-to-create-machine-learning-pipelines
-- [ ] Sketch pipeline flow
+- [ ] Sketch pipeline flow 
 
 ---
 
 ## DAY 09 — MODEL REGISTRY
-- [ ] Model registry concepts  
+- [ ] Model registry concepts 
   - https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-models
 - [ ] Document versioning strategy
 
 ---
 
 ## DAY 10 — DEPLOYMENT
-- [ ] Real-time endpoints  
+- [ ] Real-time endpoints 
   - https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-managed-online-endpoints
-- [ ] Batch endpoints overview  
-- [ ] Compare both approaches
+- [ ] Batch endpoints overview 
+- [ ] Compare both approaches 
 
 ---
 
 ## DAY 11 — CI/CD FOR ML
-- [ ] ML CI/CD concepts  
+- [ ] ML CI/CD concepts 
   - https://learn.microsoft.com/en-us/azure/machine-learning/how-to-cicd-deploy
-- [ ] Map pipeline triggers
+- [ ] Map pipeline triggers 
 
 ---
 
 ## DAY 12 — INFRA AS CODE
-- [ ] Bicep intro  
+- [ ] Bicep intro 
   - https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview
-- [ ] Identify resources to automate
+- [ ] Identify resources to automate 
 
 ---
 
 ## DAY 13 — HANDS-ON BUILD
-- [ ] Deploy model endpoint
-- [ ] Test API call
-- [ ] Capture logs
+- [ ] Deploy model endpoint 
+- [ ] Test API call 
+- [ ] Capture logs 
 
 ---
 
 ## DAY 14 — REVIEW
-- [ ] Summary:
+- [ ] Summary: 
   - "How to productionize ML models"
 
 ---

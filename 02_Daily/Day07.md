@@ -5,9 +5,9 @@ Perform hyperparameter tuning with Azure Machine Learning
 - https://learn.microsoft.com/en-us/training/modules/perform-hyperparameter-tuning-azure-machine-learning-pipelines/
 
 ## TASKS
-- [x] Complete module ✅ 2026-06-05
-- [x] Learn sweep jobs ✅ 2026-06-05
-- [x] Study tuning strategies ✅ 2026-06-05
+- [ ] Complete module
+- [ ] Learn sweep jobs 
+- [ ] Study tuning strategies
 
 ## KEY CONCEPTS
 - Random vs grid vs Bayesian search

@@ -5,9 +5,9 @@ Experiment with Azure Machine Learning
 - https://learn.microsoft.com/en-us/training/paths/automate-machine-learning-model-selection-azure-machine-learning/
 
 ## TASKS
-- [x] Complete module 🛫 2026-06-04 ✅ 2026-06-05
-- [x] Review MLflow tracking 🛫 2026-06-04 ✅ 2026-06-05
-- [ ] Use AutoML 🛫 2026-06-04
+- [ ] Complete module 
+- [ ] Review MLflow tracking 
+- [ ] Use AutoML
 
 ## KEY CONCEPTS
 - Experiment tracking

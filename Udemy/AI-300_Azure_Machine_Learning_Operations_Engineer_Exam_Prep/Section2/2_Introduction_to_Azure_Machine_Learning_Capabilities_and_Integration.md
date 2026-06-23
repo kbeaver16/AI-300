@@ -1,7 +1,7 @@
 # 📘 Azure Machine Learning Workspace — Introduction
 
 _From: 2_Introduction_to_Azure_Machine_Learning_Capabilities_and_Integration.mp3_
-
+- [ ] Test📅 2026-06-23 
 ## SUMMARY
 
 Azure Machine Learning (Azure ML) is a **unified platform** for building, training, evaluating, versioning, and deploying both **classical ML models** and **generative AI models**. It integrates compute, storage, monitoring, and model governance into a single workspace, supported by several underlying Azure resources.

@@ -633,14 +633,14 @@ WHERE contains(tags, "AI-300")
 
 ### Week-by-Week Plan
 
-- [ ] **Week 1** — Domain 1 (all 5 modules) + Labs 1.1–1.5 #AI-300 #schedule 📅 2026-06-20
-- [ ] **Week 2** — Domain 2 Modules 2.1–2.4 + Labs 2.1–2.5 #AI-300 #schedule 📅 2026-06-27
-- [ ] **Week 3** — Domain 2 Modules 2.5–2.8 + Labs 2.6–2.10 #AI-300 #schedule 📅 2026-07-04
-- [ ] **Week 4** — Domain 3 (all 5 modules) + Labs 3.1–3.6 #AI-300 #schedule 📅 2026-07-11
-- [ ] **Week 5** — Domain 4 (all 4 modules) + Labs 4.1–4.4 #AI-300 #schedule 📅 2026-07-18
-- [ ] **Week 6** — Domain 5 (all 3 modules) + Labs 5.1–5.3 #AI-300 #schedule 📅 2026-07-25
-- [ ] **Week 7** — Full review: flash cards, exam sandbox, weak-area re-study #AI-300 #schedule 📅 2026-08-01
-- [ ] **Week 8** — Mock exam, remaining gaps, exam logistics confirmation #AI-300 #schedule 📅 2026-08-08
+- [ ] **Week 1** — Domain 1 (all 5 modules) + Labs 1.1–1.5 #AI-300 #schedule 
+- [ ] **Week 2** — Domain 2 Modules 2.1–2.4 + Labs 2.1–2.5 #AI-300 #schedule 
+- [ ] **Week 3** — Domain 2 Modules 2.5–2.8 + Labs 2.6–2.10 #AI-300 #schedule 
+- [ ] **Week 4** — Domain 3 (all 5 modules) + Labs 3.1–3.6 #AI-300 #schedule 
+- [ ] **Week 5** — Domain 4 (all 4 modules) + Labs 4.1–4.4 #AI-300 #schedule 
+- [ ] **Week 6** — Domain 5 (all 3 modules) + Labs 5.1–5.3 #AI-300 #schedule 
+- [ ] **Week 7** — Full review: flash cards, exam sandbox, weak-area re-study #AI-300 #schedule 
+- [ ] **Week 8** — Mock exam, remaining gaps, exam logistics confirmation #AI-300 #schedule 
 
 ---
 

@@ -4,9 +4,9 @@
 - https://learn.microsoft.com/en-us/training/paths/build-first-machine-operations-workflow/
 
 ## TASKS
-- [x] Review full learning path 🛫 2026-06-01 📅 2026-06-01 ✅ 2026-06-01
-- [x] Identify all modules 🛫 2026-06-01 📅 2026-06-01 ✅ 2026-06-01
-- [x] Map to exam domain: MLOps infrastructure 🛫 2026-06-01 📅 2026-06-01 ✅ 2026-06-01
+- [ ] Review full learning path
+- [ ] Identify all modules
+- [ ] Map to exam domain: MLOps infrastructure
 
 ## KEY CONCEPTS
 - Azure ML workspace

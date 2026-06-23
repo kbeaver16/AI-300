@@ -5,8 +5,8 @@ Manage prompts for agents in Microsoft Foundry with GitHub
 - https://learn.microsoft.com/en-us/training/modules/prompt-versioning-genaiops/
 
 ## TASKS
-- [x] Complete module ✅ 2026-06-10
-- [x] Learn prompt versioning ✅ 2026-06-10
+- [ ] Complete module
+- [ ] Learn prompt versioning 
 
 ## KEY CONCEPTS
 - Prompt lifecycle
