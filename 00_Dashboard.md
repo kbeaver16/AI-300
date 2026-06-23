@@ -1,35 +1,70 @@
 # AI-300 DASHBOARD
 
-## STATUS
-- Week 1: ⬜
-- Week 2: ⬜
-- Week 3: ⬜
-- Week 4: ⬜
-- Week 5: ⬜
+## STATUS OVERVIEW
+- Week 1 (MLOps Infra): ⬜
+- Week 2 (Training + Pipelines): ⬜
+- Week 3 (Deployment + Ops): ⬜
+- Week 4 (GenAIOps): ⬜
+- Week 5 (GenAI QA + Monitoring): ⬜
+- Week 6 (Optimization + Exam): ⬜
 
 ---
 
-## QUICK LINKS
-- [[Week_01]]
-- [[Week_02]]
-- [[Week_03]]
-- [[Week_04]]
-- [[Week_05]]
-
-- [[End_to_End_System]]
-- [[GenAI_App]]
+## PROGRESS TRACKER
+- Modules Completed: 0 / 13
+- Hands-On Labs Completed: 0 / 6
+- Architectures Built: 0 / 4
 
 ---
 
-## KEY SKILLS TRACKING
-- MLOps: ⬜
-- GenAIOps: ⬜
-- Monitoring: ⬜
-- Optimization: ⬜
+## DOMAIN READINESS
+
+### MLOps Infrastructure
+- [ ] Azure ML Workspace
+- [ ] RBAC / Managed Identity
+- [ ] IaC (Bicep / CLI)
+- [ ] GitHub Actions
+
+### ML Lifecycle
+- [ ] AutoML
+- [ ] MLflow Tracking
+- [ ] Pipelines
+- [ ] Hyperparameter tuning
+
+### Deployment + Operations
+- [ ] Model registry
+- [ ] Endpoint deployment
+- [ ] Drift detection
+- [ ] Retraining pipeline
+
+### GenAIOps
+- [ ] Foundry setup
+- [ ] Prompt versioning
+- [ ] LLM deployment
+
+### Observability
+- [ ] Evaluation metrics
+- [ ] Monitoring (latency / cost)
+- [ ] Safety checks
+
+### Optimization
+- [ ] RAG tuning
+- [ ] Tracing
+- [ ] Performance tuning
 
 ---
 
-## EXAM READINESS
-- Can explain full system end-to-end: ⬜
-- Can design tradeoffs: ⬜
-- Can choose correct Azure services: ⬜
+## WEEKLY CHECKPOINTS
+- [ ] Week 1 Complete → I can deploy ML infra
+- [ ] Week 2 Complete → I can run pipelines
+- [ ] Week 3 Complete → I can deploy models
+- [ ] Week 4 Complete → I can build GenAI system
+- [ ] Week 5 Complete → I can evaluate + monitor
+- [ ] Week 6 Complete → Exam ready
+
+---
+
+## FINAL READINESS
+- [ ] Can explain end-to-end AI system
+- [ ] Can choose correct Azure service
+- [ ] Can design tradeoffs
